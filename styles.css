@@ -59,3 +59,9 @@ p {
 article {
     margin-bottom: 20px;
 }
+body {
+    background-image: url('C:\Users\86187\personal-website/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
